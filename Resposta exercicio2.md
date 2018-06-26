@@ -1,6 +1,7 @@
 #Exercício 2
 
-#main
+#Main
+
 	public class Main {
     		public static void main(String[] args) {
                 	Produto primeiroProduto = new Produto("Placa Mãe", 485.60);
